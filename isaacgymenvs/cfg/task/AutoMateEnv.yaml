@@ -113,5 +113,6 @@ env:
                             'asset_00190', 
                             'asset_00032', 
                             'asset_00141', 
-                            'asset_00255'
+                            'asset_00255',
+                            'asset_00069'
                         ]
