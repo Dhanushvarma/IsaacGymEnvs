@@ -1098,3 +1098,14 @@ asset_00255:
     friction: 0.5
 
 
+asset_00069:
+  00069_plug:
+    urdf_path: '00069_plug'
+    density: 8000.0
+    friction: 0.5
+  00069_socket:
+    urdf_path: '00069_socket'
+    density: 8000.0
+    friction: 0.5
+
+
