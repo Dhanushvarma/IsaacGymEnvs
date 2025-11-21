@@ -3,12 +3,14 @@
 	<link name="00141_plug">
 		<visual>
 			<geometry>
-				<mesh filename="../mesh/00141/asset_plug.obj"/>
+				<!-- <mesh filename="../mesh/00141/asset_plug.obj"/> -->
+				<mesh filename="../mesh/00141/vd_00141/asset_plug.obj"/>
 			</geometry>
 		</visual>
 		<collision>
 			<geometry>
-				<mesh filename="../mesh/00141/asset_plug.obj"/>
+				<!-- <mesh filename="../mesh/00141/asset_plug.obj"/> -->
+				<mesh filename="../mesh/00141/vd_00141/asset_plug.obj"/>
 			</geometry>
 			<sdf resolution="256"/>
 		</collision>
