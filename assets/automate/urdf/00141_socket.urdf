@@ -3,14 +3,14 @@
 	<link name="00141_socket">
 		<visual>
 			<geometry>
-				<!-- <mesh filename="../mesh/00141/asset_socket.obj"/> -->
-				<mesh filename="../mesh/00141/vd_00141/asset_socket.obj"/>
+				<mesh filename="../mesh/00141/asset_socket.obj"/>
+				<!-- <mesh filename="../mesh/00141/vd_00141/asset_socket.obj"/> -->
 			</geometry>
 		</visual>
 		<collision>
 			<geometry>
-				<!-- <mesh filename="../mesh/00141/asset_socket.obj"/> -->
-				<mesh filename="../mesh/00141/vd_00141/asset_socket.obj"/>
+				<mesh filename="../mesh/00141/asset_socket.obj"/>
+				<!-- <mesh filename="../mesh/00141/vd_00141/asset_socket.obj"/> -->
 			</geometry>
 			<sdf resolution="256"/>
 		</collision>
